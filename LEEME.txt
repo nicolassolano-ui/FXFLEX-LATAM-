@@ -1,0 +1,5 @@
+Suba aquí los archivos de descarga con estos nombres exactos:
+  catalogo-general-2025.pdf
+  fichas-tecnicas-tds.zip
+  perfiles-icc.zip
+Mientras no existan, el botón "Descargar" lleva al formulario de cotización.
