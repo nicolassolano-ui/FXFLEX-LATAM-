@@ -1,0 +1,3 @@
+# Si el archivo no existe todavía en /descargas, lleva al formulario de cotización.
+# (Netlify solo aplica esta regla cuando NO hay un archivo en esa ruta.)
+/descargas/*  /#contacto  302
